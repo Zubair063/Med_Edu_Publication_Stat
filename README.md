@@ -1,8 +1,9 @@
 # Publication Trends in AI and Medical Education (2015-2025)
 
 Reproducible publication-count figure from PubMed, IEEE Xplore, and Web of Science records for a survey on AI-supported medical education.
+![Annual indexed publication counts from IEEE Xplore, PubMed, and Web of Science, 2015–2025. A callout between 2022 and 2023 marks the November 2022 public release of ChatGPT.](figures/publication_growth_2015_2025.png)
 
-The chart is [figures/publication_growth_2015_2025.pdf](figures/publication_growth_2015_2025.pdf). A label between the 2022 and 2023 groups marks the public release of ChatGPT in November 2022. That marker is contextual. The chart does not establish that ChatGPT caused the publication increase.
+The chart is also saved as [figures/publication_growth_2015_2025.pdf](figures/publication_growth_2015_2025.pdf). A label between the 2022 and 2023 groups marks the public release of ChatGPT in November 2022. That marker is contextual. The chart does not establish that ChatGPT caused the publication increase.
 
 ## What this repository contains
 
